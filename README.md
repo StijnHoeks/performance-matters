@@ -1,18 +1,10 @@
 # Performance matters
 
-## Project setup
+## Analysis
+![alt text](edit/master.png "master performance view")
 
-This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
+## Optimalization
 
-Differences from actual Bootstrap documentation:
-
-- Added custom webfont
-- Removed third party scripts
-- The src directory is served with [Express](https://expressjs.com/).
-- Templating is done with [Nunjucks](https://mozilla.github.io/nunjucks/)
-
-## Getting started
-
-- Install dependencies: `npm install`
-- Serve: `npm start`
-- Expose localhost: `npm run expose`
+## Screenshots
+![alt text](edit/master.png "master performance view")
+![alt text](edit/optimized.png "master performance view")
